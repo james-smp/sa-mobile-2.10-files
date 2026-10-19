@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "host": "rpg.valrisegaming.com",
+            "port": "7777"
+        }
+    ]
+}
