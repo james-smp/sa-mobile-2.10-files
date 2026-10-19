@@ -1,0 +1,9 @@
+{
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.7",
+    "game_url": "https://github.com/JAMESQWERTY0019/gayy/releases/download/%23game-data/app-game-release.apk",
+    "samp_list_url": "https://cdn.jsdelivr.net/gh/JAMESQWERTY0019/samp-android@main/samp_list.json",
+    "full_list_url": "https://cdn.jsdelivr.net/gh/JAMESQWERTY0019/samp-android@main/full_list.json",
+    "lite_list_url": "https://cdn.jsdelivr.net/gh/JAMESQWERTY0019/samp-android@main/lite_list.json"
+}
