@@ -4117,6 +4117,398 @@
           "gpu": "all"
         }
       ]
+    },
+    {
+      "name": "common-nodes.zip",
+      "url": "https://github.com/james-smp/sa-mobile-2.10-files/releases/download/data-v1/common-nodes.zip",
+      "size": 1507846,
+      "sha256": "b460ab5fe56eeffd9a86d650fcd9aec36e6f2d7c4531f9d6f3ea940ed89b1e4e",
+      "files": [
+        {
+          "path": "data/paths/NODES10.DAT",
+          "size": 15100,
+          "sha256": "e84c9ffb3a263f269a0c58f528111d6c6035789b6ba200bb744d791ebead8bda",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES11.DAT",
+          "size": 28886,
+          "sha256": "d51daa7922f70aab0d2dd4530a9258b40b7f4c6201863ef1eeb5c054109620db",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES12.DAT",
+          "size": 110342,
+          "sha256": "7afa915d07860ee1d02dd3d70cb28c49adf14b97206cbe330c5eee14ec78f7c3",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES13.DAT",
+          "size": 117488,
+          "sha256": "0fb989f674da4651b87c1bfc56a6bcbfd7ddd7c9a579e55bc52e1f7458898c11",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES14.DAT",
+          "size": 121566,
+          "sha256": "99eddfd66abcda9d389a432416ec3b09a5660227fc0104210b316caf18896a79",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES15.DAT",
+          "size": 93802,
+          "sha256": "eb4a82a8e6863eb2c704549603409f76ade298bdec972ce9f7fea7e84c41109a",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES16.DAT",
+          "size": 19250,
+          "sha256": "140b62bd53b0e406f11dcbe94c8e0767f562f2e4bea58ded12339eb288fc3ea5",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES17.DAT",
+          "size": 36952,
+          "sha256": "dd060d61c1ecc45c2aaa8be501c7f41fe29f136b1a5aae67d34dcfd9924c5e64",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES18.DAT",
+          "size": 17234,
+          "sha256": "8ac84c5c1188b7ea86086ad4c2a462654e46fd771907fbf7f50d43787e20cfe0",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES19.DAT",
+          "size": 39862,
+          "sha256": "bb4f72c64af33659e43c28f5f344a78a61877a6350977b92e7031735f3adda25",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES20.DAT",
+          "size": 76652,
+          "sha256": "86351503a91e923f138d38a65cd74fdc964853d6c4ab340974a643c0bad93fc3",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES21.DAT",
+          "size": 138482,
+          "sha256": "9fbcf4123097b02e12047195c0d70b4ea67943dd4ef5a535ae177c6b0b9fff37",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES22.DAT",
+          "size": 120014,
+          "sha256": "831e6e888ff8c77c493abe4d3dffd9c0f96b6dfffaea91ac3cb881b60b608310",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES23.DAT",
+          "size": 87652,
+          "sha256": "fb3b028a987933691014ecd5826e82629fd0aa2133d7d8730e413bb5ac27b5e1",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES24.DAT",
+          "size": 94334,
+          "sha256": "76853143b04ef1f35d7db038e5939c048ff88ccd468fbff5344b011313ec9575",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES25.DAT",
+          "size": 95160,
+          "sha256": "ba42f7d159a5989eb1f94acdaef1e84839585a5c8d641717ae44f611450f77d8",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES26.DAT",
+          "size": 55378,
+          "sha256": "37d8919fc006e9724dc6dbc5d929384df8e3a4f3e27822597e8e994499fedb12",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES27.DAT",
+          "size": 26342,
+          "sha256": "59ddaa917fb5372f1e4e77264e3cb4ba6268ae8648498246fe6ade7128c6b6f7",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES28.DAT",
+          "size": 84224,
+          "sha256": "2be659500dc780deeaf65333bd2078fde056c6e1dec17e084d118e016256a5bc",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES29.DAT",
+          "size": 36556,
+          "sha256": "6a056c0d9da1750530086489c52952a9dd9f7c3fa04d51c73bdc863beaa415dc",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES30.DAT",
+          "size": 20098,
+          "sha256": "5634a075f755fdc5abc5a3456f4199aaaccc8c4b7213f75c8e0dd8122d5535f3",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES31.DAT",
+          "size": 22552,
+          "sha256": "7aea61e71070977a590a85979fb92b5f74a415b72a870340e8f4e7349720a2e1",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES32.DAT",
+          "size": 126744,
+          "sha256": "b35ef3ea7682eb7d15e31429ec4dbca1b7a64029a71740ab8d29ed9562c536b6",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES33.DAT",
+          "size": 113784,
+          "sha256": "b25515ff4e85595b6c4f47d8d98eb9d2931cc8ab57b6ee69ca910f1fab5b61e9",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES34.DAT",
+          "size": 50594,
+          "sha256": "2acb931cf1f7675cb7573dd40441edc7ca1351742ea55c568a8c98f34fefe20d",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES35.DAT",
+          "size": 28442,
+          "sha256": "8ce944836df80b3ce795b54b19d9e96f3c050b0a4386796924f9cc13fbb3045c",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES36.DAT",
+          "size": 52546,
+          "sha256": "16956c21544e406e6f4e5f47d626712f47ad1519b5bc637ece7c22b6cb68bde8",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES37.DAT",
+          "size": 46690,
+          "sha256": "26e5849ce3512a532702abd259928055390a69c0bd08990ddd7b521312e37f8b",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES38.DAT",
+          "size": 59616,
+          "sha256": "4cf2a28bae2d8db6cff8ecdc8e191ecb24e1e7ceb6a379a6611e4538442a27ea",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES39.DAT",
+          "size": 42486,
+          "sha256": "17b40f6654df1ea1ef491a16d647c34b57f9fd32d23ffa41529bce478a57ef4b",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES40.DAT",
+          "size": 115172,
+          "sha256": "7f42619b94223a4e187e416594b4877921dc813cd37cab78d865a6d3b006e96a",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES41.DAT",
+          "size": 141844,
+          "sha256": "b382756d8379a85090726fe59302bbda844bec3c5664fee682de84c66b645912",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES42.DAT",
+          "size": 35716,
+          "sha256": "cfaf6d7bbbc6887fa090af63f770273104d927662c2b912a618b7fda39ffbdce",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES43.DAT",
+          "size": 45006,
+          "sha256": "83a617dc3f1a33e85d66e12226132fb595cce81a94800e76f568f81aff9834ea",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES44.DAT",
+          "size": 49032,
+          "sha256": "69e80ccd3960b93595f57a0daebc793badcb869007a203902c2a56bbc17cb4ce",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES45.DAT",
+          "size": 40270,
+          "sha256": "e045bff56ed6c4ee229c6e16020c61eaf7d54b40cb076b3b12ea722e36e29e75",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES46.DAT",
+          "size": 123954,
+          "sha256": "945d2854bc5db396dbd32f9b316c4e0a51deced64e3aff4fb7b1367c2c2423eb",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES47.DAT",
+          "size": 85050,
+          "sha256": "dd8a085e90871f0ff0f6ce0511782376bf94456e777ff3af6ebaaaadd4b5ad74",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES48.DAT",
+          "size": 26170,
+          "sha256": "8b20d271c6aee0d586fff29d931bb48b50a1b8f09dda9ef20b74b5333b561d83",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES49.DAT",
+          "size": 14948,
+          "sha256": "2d8a806d58bc6cb29897d9b6f82029c595adcb6f49cde795bbe155e20744f2cc",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES50.DAT",
+          "size": 32076,
+          "sha256": "8411bf12e12afd59c3beb11ec0f939fd8cc4cec447e80bd2679265236b11708f",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES51.DAT",
+          "size": 18704,
+          "sha256": "5d6f0af1bdbf837810a1c1055e25b6548bcafd66a3a864516d0f86b5e37c8fbe",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES52.DAT",
+          "size": 37934,
+          "sha256": "3fbac1bcff5f1098472dcfe309cb43b199c38fd6b1fdbe1e8b5c526c8228fb77",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES53.DAT",
+          "size": 65650,
+          "sha256": "af395d4fbc7f5aacb84a949b48e4f32ed5a19600597e422fb838c8f5cfdc3ec8",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES54.DAT",
+          "size": 127874,
+          "sha256": "209d1b5474b2a030bda032e19cda449c038fbe89796f41016499b580c39e6331",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES55.DAT",
+          "size": 84904,
+          "sha256": "db3f7ec70518e6ddd13871ad0bcb96e401b0f605965a1faf085ddc464d8b9ea6",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES56.DAT",
+          "size": 33350,
+          "sha256": "b6d6708e050ab07b88a1ff75319fa41cfc23e298527e4a886a17704fbb5f68d5",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES57.DAT",
+          "size": 19212,
+          "sha256": "e3c430ac3a21b3abc31d7840ad2d50df1f07c704bc0f9c7dddadb5c898de9862",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES58.DAT",
+          "size": 18858,
+          "sha256": "e25f71bfe6683da82219ffb516b00c8ccc68350c920ea9271657ad8071b31b7d",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES59.DAT",
+          "size": 28114,
+          "sha256": "9c5cc3d536f9359f89b2e195d4de1511c51eebe96a082a875e77f1825526d138",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES60.DAT",
+          "size": 14464,
+          "sha256": "e66b0e32b2a1ea95af5f81faa6735216115cb13026984760739416666bd0fead",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES61.DAT",
+          "size": 60284,
+          "sha256": "e292dbe2c0f4678e03235f4d557dcffb3842798e7c8f7b7a5c73609f66203965",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES62.DAT",
+          "size": 70972,
+          "sha256": "1dbc30784b71ba42dd742d07b0a3a991b2de75f2c0e5523ab0abe7b2716a3edc",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES63.DAT",
+          "size": 71530,
+          "sha256": "96fe84fc7225551ab8b7ad734fe425ceec2b984d21b511c819688b86c70653c5",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES0.DAT",
+          "size": 13458,
+          "sha256": "f4910a9fa0100984bdd48f0e1d8161fe5b702081d37c66316b2d667f942fa2f2",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES1.DAT",
+          "size": 35996,
+          "sha256": "dd63cdb01f365b38edb4e69829cb09bb7d39d2105886e3e9f80e7aca05ec47ae",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES2.DAT",
+          "size": 11396,
+          "sha256": "3fc680950c483dda376f25abe375c39ae825df4671990de245e887ad259ccee0",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES3.DAT",
+          "size": 12438,
+          "sha256": "7a4534acc4bb66f20825966389daa197ed33a72dae3568239672ea268ba5d4b5",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES4.DAT",
+          "size": 5402,
+          "sha256": "a6e9a13fa25257c0c0cad5e515dedadc988993fb80d22beb210e734d517f5f26",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES5.DAT",
+          "size": 16804,
+          "sha256": "26c8008564bb70332058e5a6e3a4c1a5006c12e84979f174754c9ed9a7489114",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES6.DAT",
+          "size": 50642,
+          "sha256": "a3d751c73023b202d3df67d8c903614db4e816fdc241b89efd2184cfd1179839",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES7.DAT",
+          "size": 24464,
+          "sha256": "2e39c0e99b86d1716b8fc52bfc295de712c446d3a71081b609645ff2bbb7e6c9",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES8.DAT",
+          "size": 32112,
+          "sha256": "19d5d3d503364bfdd883dcd1d46280a579447c260513eb4f4af15cca418e877e",
+          "gpu": "all"
+        },
+        {
+          "path": "data/paths/NODES9.DAT",
+          "size": 32516,
+          "sha256": "9ad49ac7fcb2c501902a89a0196cea62fe9319f01fc965580331459e40dadc3d",
+          "gpu": "all"
+        }
+      ]
     }
   ]
 }
